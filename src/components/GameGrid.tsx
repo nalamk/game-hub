@@ -6,8 +6,6 @@ import GameCardContainer from "./GameCardContainer";
 import { GameQuery } from "../App";
 
 interface Props {
-  // selectedGenre: Genre | null;
-  // selectedPlatform: Platform | null;
   gameQuery: GameQuery;
 }
 
